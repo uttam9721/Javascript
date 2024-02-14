@@ -4,3 +4,4 @@ console.log(sol);// output =>0
 //More example
 let val = str.indexOf("Love");
 console.log(val);//output => 1
+
